@@ -1,0 +1,21 @@
+{
+  "name": "will-you-be-my-valentine-",
+  "version": "1.0.0",
+  "description": "This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.",
+  "main": "script.js",
+ "scripts": {
+  "dev": "live-server"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevyaniSisodia/Will-you-be-my-Valentine-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DevyaniSisodia/Will-you-be-my-Valentine-/issues"
+  },
+  "homepage": "https://github.com/DevyaniSisodia/Will-you-be-my-Valentine-#readme"
+}
